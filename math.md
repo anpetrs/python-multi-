@@ -97,3 +97,16 @@ num = sqrt(10)`
 `num % 10 ** (n + 1 - i) // (10 ** (n - i))`
 
 </details>
+
+<details>
+  <summary>формулы</summary>
+
+### Формула среднего арифметического (середины диапазона)
+
+$$\text{Average} = \frac{\text{min} + \text{max}}{2}$$
+
+### Максимин (Maximin)
+
+`result = max(min_a, min_b)`
+
+</details>
